@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme dos Anjos
+#  Guilherme dos Anjos
 
 **`Desenvolvedor Front-End`**
 
