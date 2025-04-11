@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Guilherme dos Anjos
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Guilherme dos Anjos Pinto, tenho 18 anos, sou estudante de Análise e Desenvolvimento de Sistemas, pela Universidade Norte do Paraná (3º semestre), sou um desenvolvedor front-end, com conhecimentos em HTML, CSS, JavaScript/TypeScript e React.js, você pode olhar mais sobre minhas habilidades/projetos no meu LinkedIn, "[Linkedin](https://www.linkedin.com/in/guilherme-anjos-4b9955244/)", onde geralmente posto todo o detalhamento de cada projeto feito.
 
