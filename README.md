@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Guilherme dos Anjos Pinto, tenho 18 anos, sou estudante de Análise e Desenvolvimento de Sistemas, pela Universidade Norte do Paraná (3º semestre), sou um desenvolvedor front-end, com conhecimentos em HTML, CSS, JavaScript/TypeScript e React.js, você pode olhar mais sobre minhas habilidades/projetos no meu LinkedIn, "[Linkedin](https://www.linkedin.com/in/guilherme-anjos-4b9955244/)", onde geralmente posto todo o detalhamento de cada projeto feito.
+Me chamo Guilherme dos Anjos Pinto, tenho 18 anos, sou estudante de Análise e Desenvolvimento de Sistemas, pela Universidade Norte do Paraná (3º semestre), sou um desenvolvedor full-stack, com conhecimentos em HTML, CSS, JavaScript/TypeScript e React.js e Python, você pode olhar mais sobre minhas habilidades/projetos no meu LinkedIn, "[Linkedin](https://www.linkedin.com/in/guilherme-anjos-4b9955244/)", onde geralmente posto todo o detalhamento de cada projeto feito.
 
 
 
@@ -49,6 +49,14 @@ Me chamo Guilherme dos Anjos Pinto, tenho 18 anos, sou estudante de Análise e D
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.python.org" 
 />
 
 <br/>
